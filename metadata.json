@@ -1,0 +1,8 @@
+{
+  "name": "BAK Rombongan KAI Wisata",
+  "description": "Aplikasi pengelolaan dan pembuatan dokumen Berita Acara Kesepakatan perjalanan rombongan secara otomatis, profesional, dan efisien untuk staf ticketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
